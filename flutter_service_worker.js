@@ -25,8 +25,8 @@ const RESOURCES = {"assets/assest/img/logo.png": "7dc71358765f4100f90d739922dd5a
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "e93b35531e88cda1ed6caef9f2cdb7b0",
-"/": "e93b35531e88cda1ed6caef9f2cdb7b0",
+"index.html": "b399fe61a99805bbbd6145bab06f544a",
+"/": "b399fe61a99805bbbd6145bab06f544a",
 "main.dart.js": "880054b753c0a6b0a2ffa382f9f28ab7",
 "manifest.json": "3e2b19f6aa668087794509a276798411",
 "version.json": "ee01262548cba061148c11c8fca76d94"};
